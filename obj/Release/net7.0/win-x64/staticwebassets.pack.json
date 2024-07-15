@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\obj\\Release\\net7.0\\win-x64\\scopedcss\\projectbundle\\Transportation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Transportation.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\Font\\DB Adman X Bd.ttf",
+      "PackagePath": "staticwebassets\\Font\\DB Adman X Bd.ttf"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\Font\\DB Adman X Li.ttf",
+      "PackagePath": "staticwebassets\\Font\\DB Adman X Li.ttf"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\Font\\DB Adman X.ttf",
+      "PackagePath": "staticwebassets\\Font\\DB Adman X.ttf"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\Font\\Gotham-Medium_0.otf",
+      "PackagePath": "staticwebassets\\Font\\Gotham-Medium_0.otf"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\Font\\psl147.ttf",
+      "PackagePath": "staticwebassets\\Font\\psl147.ttf"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\css\\Vertical1.css",
+      "PackagePath": "staticwebassets\\css\\Vertical1.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\1-1.png",
+      "PackagePath": "staticwebassets\\images\\1-1.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\1-2.png",
+      "PackagePath": "staticwebassets\\images\\1-2.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\1-3.png",
+      "PackagePath": "staticwebassets\\images\\1-3.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\1-4.png",
+      "PackagePath": "staticwebassets\\images\\1-4.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\301711357873.png",
+      "PackagePath": "staticwebassets\\images\\301711357873.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\BTS GOLD LINE-05.png",
+      "PackagePath": "staticwebassets\\images\\BTS GOLD LINE-05.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\BTS GOLD LINE-06.png",
+      "PackagePath": "staticwebassets\\images\\BTS GOLD LINE-06.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\BTS GOLD LINE-07.png",
+      "PackagePath": "staticwebassets\\images\\BTS GOLD LINE-07.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\BTS-Logo.svg.png",
+      "PackagePath": "staticwebassets\\images\\BTS-Logo.svg.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\ICON TRANSPORTATION-01.png",
+      "PackagePath": "staticwebassets\\images\\ICON TRANSPORTATION-01.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\ICON TRANSPORTATION-02.png",
+      "PackagePath": "staticwebassets\\images\\ICON TRANSPORTATION-02.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\ICON TRANSPORTATION-03.png",
+      "PackagePath": "staticwebassets\\images\\ICON TRANSPORTATION-03.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\ICON TRANSPORTATION-04.png",
+      "PackagePath": "staticwebassets\\images\\ICON TRANSPORTATION-04.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\ICON TRANSPORTATION-05.png",
+      "PackagePath": "staticwebassets\\images\\ICON TRANSPORTATION-05.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\ICON TRANSPORTATION-06.png",
+      "PackagePath": "staticwebassets\\images\\ICON TRANSPORTATION-06.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\ITD Artwork-04.png",
+      "PackagePath": "staticwebassets\\images\\ITD Artwork-04.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\LINE_ALBUM_BG_H.jpg",
+      "PackagePath": "staticwebassets\\images\\LINE_ALBUM_BG_H.jpg"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\LINE_ALBUM_BG_V.jpg",
+      "PackagePath": "staticwebassets\\images\\LINE_ALBUM_BG_V.jpg"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\Screenshot_2024-03-25_151333-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_2024-03-25_151333-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\Screenshot_2024-03-25_151333-removebg-preview1.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_2024-03-25_151333-removebg-preview1.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\Screenshot_2024-03-25_151343-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_2024-03-25_151343-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\Screenshot_2024-03-25_151343-removebg-preview1.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_2024-03-25_151343-removebg-preview1.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\Screenshot_2024-03-26_133328-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_2024-03-26_133328-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\Screenshot_2024-03-26_133338-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_2024-03-26_133338-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\Screenshot_2024-03-26_133355-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_2024-03-26_133355-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\car.png",
+      "PackagePath": "staticwebassets\\images\\car.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\car1.png",
+      "PackagePath": "staticwebassets\\images\\car1.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\location1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\location1-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\map.png",
+      "PackagePath": "staticwebassets\\images\\map.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\nopic.jpg",
+      "PackagePath": "staticwebassets\\images\\nopic.jpg"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\images\\qrparking.png",
+      "PackagePath": "staticwebassets\\images\\qrparking.png"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\js\\Vertical1.js",
+      "PackagePath": "staticwebassets\\js\\Vertical1.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Transportation-แนวตั้งNew\\Transportation-แนวตั้งNew\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.Transportation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.build.Transportation.props",
+      "PackagePath": "build\\Transportation.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Transportation.props",
+      "PackagePath": "buildMultiTargeting\\Transportation.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Transportation.props",
+      "PackagePath": "buildTransitive\\Transportation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,1002 @@
+﻿@font-face {
+    font-family: 'DB Adman X Bold';
+    src: url('../Font/DB Adman X Bd.ttf') format('truetype');
+    /* แทน path/to/DBAdmanX-Bold.ttf ด้วยที่อยู่เต็มของไฟล์ฟอนต์ที่คุณมี */
+}
+
+@font-face {
+    font-family: 'PSL';
+    src: url('../Font/psl147.ttf') format('truetype');
+    /* แทน path/to/DBAdmanX-Bold.ttf ด้วยที่อยู่เต็มของไฟล์ฟอนต์ที่คุณมี */
+}
+
+@font-face {
+    font-family: 'GOTHAM';
+    src: url('../Font/Gotham-Medium_0.otf') format('truetype');
+    /* แทน path/to/DBAdmanX-Bold.ttf ด้วยที่อยู่เต็มของไฟล์ฟอนต์ที่คุณมี */
+}
+
+body {
+}
+
+.toon {
+    width: 1080px;
+    height: 1920px;
+    font-family: 'DB Adman X Bold', sans-serif;
+    /*font-family: 'Mitr', sans-serif;*/
+    /*background-image: url('../images/LINE_ALBUM_BG_V.jpg') !important;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ปรับขนาดพื้นหลังเพื่อให้เต็มจอ */
+    background-attachment: fixed;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    padding: 10px;
+    background-color: black;
+}
+
+.idate {
+    width: 1060px;
+    display: block;
+    float: left;
+}
+.dates {
+    /*float: right;*/
+    margin: -60px 0px 0px 0px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+    .dates p3 {
+        font-size: 50px;
+        color: white;
+    }
+.toon1 {
+    width: 500px;
+    height: 600px;
+    margin: 60px 0 0px 0;
+    position: absolute;
+    /*background-color: red;*/
+}
+
+.toon2 {
+    width: 500px;
+    height: 600px;
+    margin: 680px 0 0px 0px;
+    position: absolute;
+    /*background-color: red;*/
+}
+
+.toon3 {
+    width: 500px;
+    height: 600px;
+    margin: 1300px 0 0px 0px;
+    position: absolute;
+    /*background-color: red;*/
+}
+
+.toon4 {
+    width: 500px;
+    height: 600px;
+    margin: 60px 0 0px 560px;
+    position: absolute;
+    /*background-color: red;*/
+}
+
+.toon5 {
+    width: 500px;
+    height: 600px;
+    margin: 680px 0 0px 560px;
+    position: absolute;
+    /*background-color: red;*/
+}
+
+.toon6 {
+    width: 500px;
+    height: 600px;
+    margin: 1300px 0 0px 560px;
+    position: absolute;
+    /*background-color: red;*/
+}
+
+p {
+    font-size: 20px;
+}
+
+p3 {
+    color: white;
+    font-size: 40px;
+    margin: 0px 0 0 20px;
+}
+
+.Time_boat_text {
+    font-family: 'GOTHAM', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    align-items: center; /* Center vertically */
+    flex-wrap: wrap; /* Allow wrapping */
+}
+
+.Parking, .BTS {
+    flex: 0 1 45%; /* Adjust width as needed */
+    margin: 10px; /* Add some margin between elements */
+}
+
+.Parking {
+    background-color: #C7B56F;
+    display: flex;
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+    flex-wrap: wrap; /* Allow content to wrap if necessary */
+}
+
+.main {
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    margin: 0px 0 30px 0;
+}
+
+.Iconsiam {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.ICS {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    /*margin: 0px 0 0 40px;*/
+}
+
+.Sub-icon1 {
+    text-align: center;
+}
+
+.sub_ICS1 {
+    text-align: center;
+}
+
+.template1 {
+    width: 500px;
+    /*margin: 10px 0px 0 20px;*/
+}
+
+.Sub_boat {
+    background-color: white;
+    border-radius: 40px;
+    width: 300px;
+    display: flex;
+    margin: 0 0 0 0;
+}
+
+.Sub_boat2 {
+    background-color: black;
+    width: 150px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    align-items: center;
+    margin: -10px -10px 0 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Sub_boat1 {
+    width: 380px;
+    height: 120px;
+    background-color: #C9AF62;
+    border-radius: 20px;
+    padding: 20px; /* Add padding to create space for the inner container */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    margin-bottom: 5px;
+}
+
+.Sub_boat_text {
+    margin-top: 12px;
+}
+
+.Sub_boat_text1 {
+    margin: -170px 0 0 190px;
+    font-weight: bold;
+    color: black;
+}
+
+.Sub_boat_text2 {
+    margin: -55px 0 0 190px;
+    font-weight: bold;
+    color: black;
+}
+
+.Sub_boat_text3 {
+    font-family: 'GOTHAM', sans-serif;
+}
+
+
+.Sub-icon1 {
+    margin: 10px 0px 0 20px;
+    color: black;
+}
+
+.Time_boat {
+    margin: -410px 0 0 380px;
+    text-align: center;
+    font-size: 30px;
+}
+
+    .Time_boat p {
+        font-size: 40px;
+    }
+
+.Time_boat1 {
+    margin: -10px 0 0 290px;
+    text-align: center;
+}
+
+.template2 {
+    width: 500px;
+    /*margin: 10px 0px 0 20px;*/
+    /*width:500px;
+    height:200px;*/
+}
+
+.main1 {
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    margin: 0px 0 30px 0;
+}
+
+.BTS_line {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.Time {
+    color: white;
+    background-color: #C9AF62;
+    font-size: 50px;
+    font-weight: bold;
+    margin: -380px 0 0px 180px;
+    border-radius: 20px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.line {
+    color: white;
+    background-color: #C9AF62;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 40px 0 10px 180px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+.line_img {
+    display: flex;
+    width: 300px;
+    margin: 0px 0 0 0px;
+    background-color: white;
+    border-radius: 70px;
+    justify-content: center;
+}
+
+.line_img1 {
+    color: black;
+    margin: 20px 0 0 20px;
+}
+
+.line_img2 {
+    text-align: center;
+    width: 60px; /* Set width and height to create a square */
+    height: 60px;
+    background-color: #C9AF62;
+    border-radius: 50%;
+    margin: 0px 0 0 5px;
+}
+
+.G1 {
+    font-family: 'GOTHAM', sans-serif;
+    margin: 15px 0 0 0;
+}
+
+.sub_Time1 {
+    font-family: 'GOTHAM', sans-serif;
+}
+
+.sub_Time2 {
+    font-size: 20px;
+}
+
+.sub_Time3 {
+    font-family: 'GOTHAM', sans-serif;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 30px !important;
+}
+
+    .location p {
+        font-size: 30px !important;
+    }
+
+.sub_BTS_line {
+    font-family: PSL, sans-serif;
+    margin: -70px 0 0 150px;
+    color: #C9AF62;
+    font-size: 30px
+}
+
+.main_line {
+    color: white;
+    margin: -350px 0 350px 70px;
+}
+
+.main_line1 {
+    color: white;
+    margin: -200px 0 310px 20px;
+}
+
+.main_line2 {
+    color: white;
+    margin: -310px 0 150px 20px;
+}
+
+.main_line3 {
+    color: white;
+    margin: -30px 0 0px 50px;
+}
+
+.sub_Taxi {
+    color: #C9AF62;
+}
+
+.template3 {
+    width: 500px;
+    /*margin: 10px 0px 0 20px;*/
+}
+
+.main2 {
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    margin: 0px 0 30px 0;
+}
+
+.sub_Taxi {
+    font-family: PSL, sans-serif;
+    margin: -70px 0 0 150px;
+    color: #C9AF62;
+    font-size: 30px
+}
+
+.krop {
+    background-color: #C9AF62;
+    width: 470px;
+    height: 430px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sub_Taxi1 {
+    width: 450px;
+    background-color: #C9AF62;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0 0 0 0px;
+    border-radius: 20px;
+}
+
+.text_taxi {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 0 0 30px;
+}
+
+.text_taxi1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 0 0 40px;
+}
+
+.count_queue {
+    font-family: 'GOTHAM', sans-serif;
+    font-size: 50px;
+    display: flex;
+    margin: -60px 0 0 250px;
+}
+
+.count_queue1 {
+    font-size: 50px;
+    margin: -75px 0 0 340px;
+}
+
+.count_car {
+    font-family: 'GOTHAM', sans-serif;
+    font-size: 50px;
+    display: flex;
+    margin: -60px 0 0 250px;
+}
+
+.count_car1 {
+    font-size: 50px;
+    margin: -75px 0 0 340px;
+}
+
+.queue {
+    width: 160px;
+    background-color: black;
+    /*text-align: center;*/
+    color: white;
+    margin: -30px 0 10px 150px;
+    display: flex;
+    justify-content: space-around;
+}
+
+    .queue p {
+        margin: 5px 0 5px 0px;
+    }
+
+.queue1 {
+    width: 300px;
+    text-align: center;
+    color: white;
+    margin: 0px 0 0 80px;
+}
+
+.template4 {
+    width: 500px;
+    /*margin: -1840px 0 0 540px;*/
+}
+
+.Sub_boatex2 {
+    background-color: black;
+    width: 130px;
+    height: 60px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    align-items: center;
+    margin: -15px -10px 0 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Sub_boatex1 {
+    width: 400px;
+    height: 70px;
+    background-color: #C9AF62;
+    border-radius: 20px;
+    padding: 20px; /* Add padding to create space for the inner container */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    margin-bottom: 5px;
+}
+
+.Sub_boatex_text {
+    margin-top: 12px;
+}
+
+.Sub_boatex_text1 {
+    margin: -85px 0 0 165px;
+    font-weight: bold;
+}
+
+.Sub_boatex_text2 {
+    margin: -25px 0 0 165px;
+    font-weight: bold;
+}
+
+.Sub_boatex_text3 {
+    font-family: 'GOTHAM', sans-serif;
+}
+
+
+.Sub-icon1 {
+    margin: 10px 0px 0 20px;
+    color: black;
+}
+
+.Time_boatex {
+    margin: -330px 0 0 390px;
+    text-align: center;
+    color: white;
+}
+
+    .Time_boatex p {
+        font-family: 'GOTHAM', sans-serif;
+        font-weight: bold;
+        font-size: 35px;
+        margin: 0 0 0 0;
+    }
+
+.Time_boatex1 {
+    margin: -10px 0 0 290px;
+    text-align: center;
+}
+
+.main3 {
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    margin: 0px 0 30px 0;
+}
+
+.sub_boatex {
+    width: 530px;
+    height: 90px;
+    background-color: #C9AF62;
+    border-radius: 20px;
+    padding: 20px; /* Add padding to create space for the inner container */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    margin-bottom: 5px;
+}
+
+.sub_boatex1 {
+    display: flex;
+    width: 210px;
+    background-color: white;
+    border-radius: 10px;
+    height: 50px; /* Set height of the inner container */
+}
+
+.sub_boatex_text {
+    color: white;
+    font-weight: bold;
+    margin: 0px 0 0 0;
+}
+
+.sub_boatex_text1 {
+    color: white;
+    font-weight: bold;
+    margin: -70px 0 0 220px;
+}
+
+.sub_boatex_text2 {
+    color: white;
+    font-weight: bold;
+    margin: -40px 0 0 390px;
+}
+
+.sub_boatex_text3 {
+    font-family: 'GOTHAM', sans-serif;
+    color: white;
+    font-weight: bold;
+    margin: 0px 0 0 220px;
+}
+
+.sub_boatex_text4 {
+    font-family: 'GOTHAM', sans-serif;
+    color: white;
+    font-weight: bold;
+    margin: -40px 0 0 420px;
+}
+
+.template5 {
+    width: 500px;
+    /*margin: 30px 0px 0 540px;*/
+}
+
+.main4 {
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    margin: 0px 0 30px 0;
+}
+
+.sub_bus {
+    font-family: PSL, sans-serif;
+    margin: -70px 0 0 150px;
+    color: #C9AF62;
+    font-size: 30px;
+}
+
+.sub_bus2 {
+    background-color: black;
+    width: 150px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    align-items: center;
+    margin: -10px -10px 0 0;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
+.sub_bus1 {
+    width: 380px;
+    height: 50px;
+    background-color: #C9AF62;
+    border-radius: 15px;
+    padding: 20px; /* Add padding to create space for the inner container */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    margin-bottom: 5px;
+}
+.bus_text_main {
+    color: #C9AF62;
+    font-weight: bold;
+    margin: 0px 0 0 0px;
+}
+.sub_bus_text {
+    margin: 0px 0 0 0px;
+}
+
+.sub_bus_text1 {
+    margin: -55px 0 0 190px;
+    font-weight: bold;
+}
+
+.sub_bus_text2 {
+    margin: -30px 0 0 190px;
+    font-weight: bold;
+}
+
+.sub_bus_text3 {
+    font-family: 'GOTHAM', sans-serif;
+}
+
+.sub_bus3 {
+    text-align: center;
+    color: white;
+    margin: -445px 0 0 370px;
+}
+
+    .sub_bus3 p {
+        font-size: 35px;
+        font-weight: bold;
+        margin: 0px 0 0 0;
+    }
+
+.template6 {
+    width: 500px;
+    /*margin: 20px 0px 0 540px;*/
+}
+
+.main5 {
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    margin: 0px 0 0px 0;
+}
+
+.sub_parking {
+    font-family: PSL, sans-serif;
+    margin: -70px 0 0 150px;
+    color: #C9AF62;
+    font-size: 30px
+}
+.mainpark{
+    margin: -10px 0 10px 100px;
+}
+.sub_parking_text {
+    color: #C9AF62;
+    font-size: 30px;
+}
+
+.sub_parking1 {
+    margin: -45px 0 0 70px;
+    display: flex;
+    width: 100px;
+    justify-content: flex-start;
+}
+
+.sub_parking_text1 {
+    font-family: 'GOTHAM', sans-serif;
+    color: #C9AF62;
+    font-size: 30px;
+    margin: 10px 0 0 0px;
+}
+
+.sub_parking_text2 {
+    /*text-align: center;*/
+    color: #C9AF62;
+    font-size: 30px;
+    margin: -40px 0 0 0px;
+}
+
+.sub_parking2 {
+    margin: 0 0 0 0px;
+    display: flex;
+    width: 400px;
+    justify-content: space-evenly;
+}
+
+.sub_parking_text3 {
+    font-family: 'GOTHAM', sans-serif;
+    color: #C9AF62;
+    font-size: 30px;
+    margin: 10px 0 0 0px;
+}
+
+.sub_parking_text4 {
+    color: white;
+    font-size: 30px;
+    margin: 10px 0 0 0px;
+}
+
+.sub_parking_text5 {
+    color: white;
+    font-size: 50px;
+    margin: 0px 0 0 0px;
+}
+
+.sub_parking_text6 {
+    font-family: 'GOTHAM', sans-serif;
+    color: #C9AF62;
+    font-size: 30px;
+    margin: 10px 0 35px 0px;
+}
+.sub_num1 {
+    margin: -55px 0 0 180px;
+    display: flex;
+    width: 135px;
+    justify-content: space-between;
+}
+.sub_num2 {
+    margin: -55px 0 0 180px;
+    display: flex;
+    width: 135px;
+    justify-content: space-between;
+}
+.sub_num3 {
+    margin: -55px 0 0 180px;
+    display: flex;
+    width: 135px;
+    justify-content: space-between;
+}
+
+#datetime {
+    color: white;
+    font-size: 50px;
+    margin: 0 20px 0 0px;
+    float: right;
+}
+
+.parking1 {
+    width: 140px;
+    background-color: #C9AF62;
+    text-align: center;
+    color: white;
+    margin: 0px 0 0 40px;
+    
+}
+    .parking1 p {
+        font-size: 18px;
+    }
+
+.parking2 {
+    margin: 0px 0 0 75px;
+}
+
+.parking3 {
+    display: flex;
+    text-align: center;
+    color: white;
+    width: 170px;
+    margin: 5px 0 0px 20px;
+    justify-content: space-between;
+}
+.imgmap {
+    display: flex;
+    justify-content: flex-end;
+    margin: -170px 30px 30px 0px;
+}
+    .imgmap img {
+        width:330px; 
+        height:170px;
+
+    }
+.parking3 p {
+    margin: 0 0 0 10px;
+    font-size: 18px;
+}
+
+.infortime {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+/* CSS for popup */
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 1000px; /* กำหนดความกว้างของ popup */
+    height: 800px; /* กำหนดความ
+    tสูงของ popup */
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    border-radius: 100px;
+}
+
+    /* CSS for paragraphs inside popup */
+    .popup p {
+        margin: 10px 0;
+        font-size: 100px;
+    }
+
+/* Additional CSS for different languages */
+#popupth {
+    color: #C9AF62; /* สีของข้อความภาษาไทย */
+}
+
+#popupen {
+    color: #C9AF62; /* สีของข้อความภาษาอังกฤษ */
+}
+
+#popupchi {
+    color: #C9AF62; /* สีของข้อความภาษาจีน */
+}
+
+.popup1 {
+    position: fixed;
+    top: 3%;
+    /*background-color: #fff;*/
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 500px; /* กำหนดความกว้างของ popup */
+    height: 600px; /* กำหนดความ
+    tสูงของ popup */
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    backdrop-filter: blur(5px);
+    /*border-radius: 100px;*/
+}
+
+    /* CSS for paragraphs inside popup */
+    .popup1 p {
+        margin: 10px 0;
+        color: white;
+        font-size: 50px;
+    }
+
+.popup2 {
+    position: fixed;
+    top: 31%;
+    /*background-color: #fff;*/
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 500px; /* กำหนดความกว้างของ popup */
+    height: 600px; /* กำหนดความ
+    tสูงของ popup */
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    backdrop-filter: blur(10px);
+    /*border-radius: 100px;*/
+}
+
+    /* CSS for paragraphs inside popup */
+    .popup2 p {
+        margin: 10px 0;
+        color: white;
+        font-size: 50px;
+    }
+
+.popup3 {
+    position: fixed;
+    top: 59%;
+    /*background-color: #fff;*/
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 500px; /* กำหนดความกว้างของ popup */
+    height: 600px; /* กำหนดความ
+    tสูงของ popup */
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    backdrop-filter: blur(10px);
+    /*border-radius: 100px;*/
+}
+
+    /* CSS for paragraphs inside popup */
+    .popup3 p {
+        margin: 10px 0;
+        color: white;
+        font-size: 50px;
+    }
+
+.popup4 {
+    position: fixed;
+    top: 3%;
+    transform: translate(0%, 0%);
+    /*background-color: #fff;*/
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 500px; /* กำหนดความกว้างของ popup */
+    height: 600px; /* กำหนดความ
+    tสูงของ popup */
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    backdrop-filter: blur(10px);
+    /*border-radius: 100px;*/
+}
+
+    /* CSS for paragraphs inside popup */
+    .popup4 p {
+        margin: 10px 0;
+        color: white;
+        font-size: 50px;
+    }
+
+.popup5 {
+    position: fixed;
+    top: 31%;
+    /*background-color: #fff;*/
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 500px; /* กำหนดความกว้างของ popup */
+    height: 600px; /* กำหนดความ
+    tสูงของ popup */
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    backdrop-filter: blur(10px);
+    /*border-radius: 100px;*/
+}
+
+    /* CSS for paragraphs inside popup */
+    .popup5 p {
+        margin: 10px 0;
+        color: white;
+        font-size: 50px;
+    }
+
+.popup6 {
+    position: fixed;
+    top: 59%;
+    /*background-color: #fff;*/
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 500px; /* กำหนดความกว้างของ popup */
+    height: 600px; /* กำหนดความ
+    tสูงของ popup */
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    backdrop-filter: blur(10px);
+    /*border-radius: 100px;*/
+}
+
+    /* CSS for paragraphs inside popup */
+    .popup6 p {
+        margin: 10px 0;
+        color: white;
+        font-size: 50px;
+    }
